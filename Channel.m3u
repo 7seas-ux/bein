@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 1
-http://223.204.157.170:9981/stream/channelid/297977934?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 2
-http://223.204.157.170:9981/stream/channelid/1077232345?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 3
-http://223.204.157.170:9981/stream/channelid/64137854?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 4
-http://223.204.157.170:9981/stream/channelid/2101627866?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 5
-http://223.204.157.170:9981/stream/channelid/446266454?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 6
-http://223.204.157.170:9981/stream/channelid/979307688?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS HD
-http://223.204.157.170:9981/stream/channelid/368588665?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS PLUS
-http://223.204.157.170:9981/stream/channelid/125362447?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",cctv5
  http://111.40.205.70/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",sony six
@@ -25,8 +9,6 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",sony ten3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",BEIN SPORT1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 1HD
 http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 2HD
@@ -81,6 +63,8 @@ http://skdn.redi-vo.com/iptv/ch1861?code=103131497823984&key=50684
 http://skdn.redi-vo.com/iptv/ch1862?code=103131497823984&key=33238
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Fox Sport 6
 http://skdn.redi-vo.com/iptv/ch1863?code=103131497823984&key=59444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",BEIN SPORT1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",BeInSport 2 HD
 http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",BeInSport 3 HD
@@ -99,3 +83,45 @@ http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
 http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",BeInSport 10 HD
 http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",EUROSPORT 1 HD
+http://iptvsmarters.cc:25461/live/mstf/mstf/2239.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",EUROSPORT 2 HD
+http://iptvsmarters.cc:25461/live/mstf/mstf/2240.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Setanta Sports 1
+http://178.124.183.6:80/hls/FWHTTL8YXU_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Setanta Sports 2
+http://178.124.183.6:80/hls/5T3FNFICQ4_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=8601338691674826&key=16615.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",ESPN HD
+http://skdn.redi-vo.com/iptv/ch3511?code=8601338691674826&key=54244.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Championtv 1
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Astro Super Sport 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Arena Sport 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Arena Sport 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Arena Sport 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",True Sport 1
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",True Sport 2
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",True Sport 3
+https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",True Sport 4
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Lao Champa TV 1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Soccer Channel 1
+https://anevia114.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Soccer Channel 2
+https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Liga Indonesia 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
