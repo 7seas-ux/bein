@@ -163,6 +163,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",indosiar
-http://etslive-2-vidio-com.akamaized.net/exp=1582801663~acl=/hls-p/ingest_205_*/*~hmac=ba2798991ab7953673c2e6ac0af77f5a1c363f728bf6dae793ca0dc04d72d7ac/hls-p/ingest_205_720p/index.m3u8
+http://etslive-2-vidio-com.akamaized.net/exp=1582811412~acl=/hls-b/ingest_205_*/*~hmac=8553ca89b635f08748463c0c4ea57a7e84d3cc507d599938ed7034a30d679aaf/hls-b/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",liga 1
 http://token-media-vidio-com.akamaized.net/exp=1582810169~acl=/uploads/1904155/*~hmac=d6e8ec91a71bb54d9e00a502ccd1e779bd41aca1014c18d98a43386447016c66/uploads/1904155/ets-teaser-20launching-20rev-205-20sosmed-0183_ac734437_high.mp4.m3u8
