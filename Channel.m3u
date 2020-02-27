@@ -9,26 +9,6 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",sony ten3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 1HD
-http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 2HD
-http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 3HD
-http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 4HD
-http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 5HD
-http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 6HD
-http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 7HD
-http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 10HD
-http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 11HD
-http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",super sport 12HD
-http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",RMC Sport 1 HD
 http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",RMC Sport 2 HD
@@ -95,8 +75,6 @@ http://178.124.183.6:80/hls/5T3FNFICQ4_HLS/variant.m3u8
 http://skdn.redi-vo.com/iptv/ch3512?code=8601338691674826&key=16615.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",ESPN HD
 http://skdn.redi-vo.com/iptv/ch3511?code=8601338691674826&key=54244.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Championtv 1
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Astro Super Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Arena Sport 2
@@ -119,10 +97,6 @@ https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Lao Champa TV 3
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Soccer Channel 1
-https://anevia114.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Soccer Channel 2
-https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel premium",Liga Indonesia 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",indosiar
@@ -161,15 +135,15 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1582811412~acl=/hls-b/ingest_205_*/*~hmac=8553ca89b635f08748463c0c4ea57a7e84d3cc507d599938ed7034a30d679aaf/hls-b/ingest_205_720p/index.m3u8
+http://etslive-2-vidio-com.akamaized.net/exp=1582801663~acl=/hls-p/ingest_205_*/*~hmac=ba2798991ab7953673c2e6ac0af77f5a1c363f728bf6dae793ca0dc04d72d7ac/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",liga 1
 http://token-media-vidio-com.akamaized.net/exp=1582810169~acl=/uploads/1904155/*~hmac=d6e8ec91a71bb54d9e00a502ccd1e779bd41aca1014c18d98a43386447016c66/uploads/1904155/ets-teaser-20launching-20rev-205-20sosmed-0183_ac734437_high.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",rodja tv
-http://cdnbal1.useetv.com/joss/14/rodjatv/chunklist_w1072093573_b684100_sleng.m3u8?enc=XL-22JlaGQthwJaWuDqF-Q&exp=1582810683
+https://cdnbal1.useetv.com/joss/14/rodjatv/chunklist_w1072093573_b684100_sleng.m3u8?enc=XL-22JlaGQthwJaWuDqF-Q&exp=1582810683
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Ahsan tv
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Wesal tv
-http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Surau tv
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Insan tv
@@ -178,3 +152,4 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b768000.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Al Quran Al Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
+
