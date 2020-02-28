@@ -154,3 +154,7 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel sport",mnc sport
 http://anevia114.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel-avc1_499968=8-1627852100000000.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",inews tv
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",net HD
+https://etslive-2-vidio-com.akamaized.net/exp=1582897116~acl=/hls-p/ingest_875_*/*~hmac=f856a07a868de424433377c51a21f9980543a0bd768ef50c08348bde9e377e22/hls-p/ingest_875_240p/index.m3u8
