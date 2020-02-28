@@ -158,3 +158,9 @@ http://anevia114.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel-avc1
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",net HD
 https://etslive-2-vidio-com.akamaized.net/exp=1582897116~acl=/hls-p/ingest_875_*/*~hmac=f856a07a868de424433377c51a21f9980543a0bd768ef50c08348bde9e377e22/hls-p/ingest_875_240p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",rodja tv
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",madinah tv
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",makkah tv
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
