@@ -139,7 +139,7 @@ http://etslive-2-vidio-com.akamaized.net/exp=1582801663~acl=/hls-p/ingest_205_*/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel local",liga 1
 http://token-media-vidio-com.akamaized.net/exp=1582810169~acl=/uploads/1904155/*~hmac=d6e8ec91a71bb54d9e00a502ccd1e779bd41aca1014c18d98a43386447016c66/uploads/1904155/ets-teaser-20launching-20rev-205-20sosmed-0183_ac734437_high.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",rodja tv
-https://cdnbdsa1.useetv.com/joss/14/rodjatv/chunklist_w1730067169_b684100_sleng.m3u8?enc=uxSyCcFlt-x9wuv1be5G7w&exp=1582867509
+http://cdnkbl2.useetv.com/joss/14/rodjatv/chunklist_w1730067169_b684100_sleng.m3u8?enc=HVh5WxlXEoFLzIVnVr4tJg&exp=1582881494
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Ahsan tv
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",Wesal tv
